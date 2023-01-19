@@ -1,7 +1,7 @@
-# T7 Exercise, cloning, templates and objects
+# T7 øvelse, cloning, templates og objects
 
 
-1. Clone this repository
-2. Start up the live-server
-3. Take a look at the HTML
-4. Open the JS file and solve the tasks (look in the JS file)
+1. Clone dette repository
+2. Start live-server
+3. Kig på HTML'en
+4. Åben JS filen og løs opgaverne der står i denne (som kommentarer)
