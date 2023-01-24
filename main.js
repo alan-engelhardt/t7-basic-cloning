@@ -1,4 +1,4 @@
-//Dette er det objekt du skal bruge til at "populate" skabelonen (template)
+//Dette er det objekt du skal bruge til at "populat'e" skabelonen (template)
 
 const gitHop = {
   name: "GitHop",
